@@ -20,7 +20,6 @@ int main() {
     printf("Font not found");
     terminate();
   }
-  return 0;
 }
 
 void terminate() {
